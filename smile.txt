@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Smile!
-=======
 
-
-haha!
->>>>>>> test
+Haha!
